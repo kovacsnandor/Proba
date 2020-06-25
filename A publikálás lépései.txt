@@ -1,0 +1,3 @@
+add: git add proba.txt
+commit: git commit -m "negyedik változatás"
+push: git push
